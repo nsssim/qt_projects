@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>sounds/classic_click.wav</file>
+        <file>sounds/slide_effect.wav</file>
+        <file>sounds/app_close.wav</file>
+        <file>sounds/splash_effect.wav</file>
+    </qresource>
+    <qresource prefix="/appWindow">
+        <file>OpenWindow.qml</file>
+        <file>Splash.qml</file>
+    </qresource>
+    <qresource prefix="/swipePages">
+        <file>PageOne.qml</file>
+        <file>PageTwo.qml</file>
+        <file>PageThree.qml</file>
+        <file>PageFour.qml</file>
+        <file>PageFive.qml</file>
+    </qresource>
+    <qresource prefix="/sounds"/>
+</RCC>

@@ -1,0 +1,49 @@
+<RCC>
+    <qresource prefix="/bg">
+        <file>splashscreen2.gif</file>
+        <file>bg_5.jpg</file>
+    </qresource>
+    <qresource prefix="/icons"/>
+    <qresource prefix="/">
+        <file>call.png</file>
+        <file>camera.png</file>
+        <file>close.png</file>
+        <file>delete.png</file>
+        <file>email.png</file>
+        <file>folder.png</file>
+        <file>gallery.png</file>
+        <file>google-maps.png</file>
+        <file>new-document.png</file>
+        <file>settings.png</file>
+        <file>9gag.png</file>
+        <file>address_book.png</file>
+        <file>admin.png</file>
+        <file>calculator.png</file>
+        <file>dictionary.png</file>
+        <file>discord.png</file>
+        <file>facebook.png</file>
+        <file>headphone.png</file>
+        <file>instagram.png</file>
+        <file>linkedln.png</file>
+        <file>lock.png</file>
+        <file>menu.png</file>
+        <file>messages.png</file>
+        <file>microphone.png</file>
+        <file>notepad.png</file>
+        <file>pictures.png</file>
+        <file>pinterest.png</file>
+        <file>play.png</file>
+        <file>radio.png</file>
+        <file>school.png</file>
+        <file>share.png</file>
+        <file>shield.png</file>
+        <file>slack.png</file>
+        <file>song.png</file>
+        <file>spotify.png</file>
+        <file>twitter.png</file>
+        <file>videoplayer.png</file>
+        <file>vpn.png</file>
+        <file>wifi.png</file>
+        <file>youtube.png</file>
+    </qresource>
+</RCC>

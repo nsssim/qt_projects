@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>off_button.png</file>
+        <file>on_button.png</file>
+        <file>piel.jpg</file>
+    </qresource>
+</RCC>
